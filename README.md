@@ -40,13 +40,12 @@ BV and P/DW have carved out a larger market share compared to other studios. As 
 no direct correlation between high budget movies and returns made. Spending on movie producton might fail to produce good movies if other non financial factors are not considered together with the choice on movie budget
 #
 
-![image](https://user-images.githubusercontent.com/117894650/224487393-5b73fa48-5c5e-4431-8e85-2d6532b18e1b.png)
-
+![image](https://user-images.githubusercontent.com/117894650/224496289-98761619-be73-461d-a9b7-9ffaf137bb70.png)
 Action, Thriller genres are the most popular with adventure biography being the least popular genres.
 #
 
-![image](https://user-images.githubusercontent.com/117894650/224487429-8724fe42-01c7-4f7a-889b-4a3724da6ae6.png)
-
+![image](https://user-images.githubusercontent.com/117894650/224496320-ae538d7a-f620-45b6-9f28-728f13366e68.png)
+ 
 This graph shows a varied discrepancy between number of movies made and ratings of the particular directors
 Sylvia Broeckxx, Erin, and Dennis Korbylo have a higher rating compared to the rest and also a larger number of movies made
 This is a visualization of talents in the movie industry with vast experience and high quality work that can be contracted 
