@@ -4,9 +4,6 @@ __pycache__
 *.pytest_cache
 .gitattributes
 *.zip
-*.jpg
-*.png
-*.gif
 bom.movie_gross.csv
 zippedData
 im.db
